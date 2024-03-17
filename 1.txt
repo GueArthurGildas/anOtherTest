@@ -1,1 +1,2 @@
  i want to be good in english and to reach my goal i m going to work hard 
+ je veux voir a quel moment on peut appliquer le git diff afin d'observer la difference entre les versions des files
